@@ -29,5 +29,3 @@ print(mean_clicks)
 print(median_impressions)
 print(click_variance)
 print(click_covariance)
-
-#hello myaoshu
